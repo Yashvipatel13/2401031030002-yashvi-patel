@@ -1,0 +1,2 @@
+mkdir WireFrames
+mkdir Diagrams
